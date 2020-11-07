@@ -9,4 +9,4 @@ I also fixed the html code in order to make sure all links are working properly.
 For the CSS stylesheet, there was a lot of unnecessary code that could be combined together in order to make the overall look cleaner and shorter. 
 
 
-file:///Users/eekwofia/BootCamp/Homework-1/Develop/index.html#online-reputation-management
+https://itz-essie.github.io/Homework-1/
